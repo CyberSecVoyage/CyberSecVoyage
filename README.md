@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  
-<h2>🎓 Certifications</h2>
+<h2>📑 Certifications</h2>
 
   - [CompTIA Security+ | Code: NDFX3D85G2R1QRGN](https://www.certmetrics.com/comptia/public/verification.aspx/)
   - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ZWPK26ESS5J3)
